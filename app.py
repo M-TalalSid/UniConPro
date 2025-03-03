@@ -366,7 +366,7 @@ def swap_units():
 
 # Sidebar
 with st.sidebar:
-    st.markdown('<div class="logo-text">🔄 UniConvert Pro</div>', unsafe_allow_html=True)
+    st.markdown('<div class="logo-text">🔄 UnitConverter Pro</div>', unsafe_allow_html=True)
     
     # Unit type selection with icons
     st.markdown("""
